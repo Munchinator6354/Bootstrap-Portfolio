@@ -1,3 +1,17 @@
 .brandname {
     font-size: 48px;
 }
+
+#thumbsUppicture {
+    width: 100%;
+    max-width: 15rem;
+    height: 10rem;
+}
+
+.headingText {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.headingBGcolor {
+    background: #4aaaa5;
+}
