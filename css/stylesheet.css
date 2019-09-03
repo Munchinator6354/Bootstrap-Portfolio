@@ -1,7 +1,3 @@
-.brandname {
-    font-size: 48px;
-}
-
 body {
     /**Why doesn't this background-image cover the background?**/
     background-image: url(../images/darkness/darkness.png);
@@ -24,10 +20,12 @@ body {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     height: auto;
     background-color: #ffffff;
-    margin-top: 1rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
 
 #nameplate {
+    text-align: center;
     font-size: 2.1rem;
     color: rgb(255, 255, 255);
     background: #4aaaa5;
@@ -45,8 +43,9 @@ h1 {
 
 footer {
 text-align: center;
+height: 4rem;
+padding: 1rem;
 background-color: #ffffff;
 /** How do i get my footer to *stick* to the bottom and stay there?**/
 margin-bottom: 0rem;
-
 }
