@@ -36,8 +36,21 @@ h1 {
     color: #4aaaa5;
 }
 
+h3 {
+    font-size: 20px;
+}
+
 .mainContainer {
     background-color: #ffffff
+}
+
+.portfolioImages {
+    height: 90%;
+    width: 90%;
+}
+
+.work {
+    overflow: auto;
 }
 
 footer {
